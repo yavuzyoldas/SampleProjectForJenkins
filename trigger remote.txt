@@ -1,0 +1,4 @@
+Token:asdfasdfasdfasd1231654632
+JENKINS_URL/job/java_HelloWorld/build?token=TOKEN_NAME
+It should be changed like this.
+localhost:8080/job/java_HelloWorld/build?token=asdfasdfasdfasd1231654632  

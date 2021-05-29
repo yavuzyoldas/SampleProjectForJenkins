@@ -1,0 +1,4 @@
+D:
+cd jenkins\jenkins example\simple_java
+javac HelloWorld.java
+java HelloWorld

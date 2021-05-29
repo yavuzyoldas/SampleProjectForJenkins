@@ -1,0 +1,2 @@
+Compile: javac filename.java (This command occurs a file (filename.class))
+Run: java filename
